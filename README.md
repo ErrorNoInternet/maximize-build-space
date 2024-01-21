@@ -1,3 +1,5 @@
+This is a fork of easimon/maximize-build-space that uses BTRFS for compression.
+
 # Maximize available disk space for build tasks
 
 By default, public shared Github runners come with around 25-29 GB of free disk space to be consumed by your build job.
